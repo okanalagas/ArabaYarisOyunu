@@ -1,0 +1,11 @@
+C:\Users\Okan\source\repos\Araba Yarışı\Araba Yarışı\bin\Debug\Araba Yarışı.exe.config
+C:\Users\Okan\source\repos\Araba Yarışı\Araba Yarışı\bin\Debug\Araba Yarışı.exe
+C:\Users\Okan\source\repos\Araba Yarışı\Araba Yarışı\bin\Debug\Araba Yarışı.pdb
+C:\Users\Okan\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.AssemblyReference.cache
+C:\Users\Okan\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba_Yarışı.FormRace.resources
+C:\Users\Okan\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba_Yarışı.Properties.Resources.resources
+C:\Users\Okan\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.GenerateResource.cache
+C:\Users\Okan\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\Okan\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.exe
+C:\Users\Okan\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.pdb
